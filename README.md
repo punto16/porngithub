@@ -23,8 +23,4 @@ TODO:Write credits
 ## Licence
 TODO: Write licence
 
-holaholaholaholahola
-
-Hi hi
-
-si
+Licensed by the university of xiao piao
